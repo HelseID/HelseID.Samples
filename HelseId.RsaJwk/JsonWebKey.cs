@@ -11,5 +11,8 @@
         public string P { get; set; }
         public string Q { get; set; }
         public string QI { get; set; }
+        public string Crv { get; set; }
+        public string X { get; set; }
+        public string Y { get; set; }
     }
 }
